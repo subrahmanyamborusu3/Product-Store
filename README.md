@@ -21,7 +21,7 @@ FakeStore API - External API for product data  (https://fakestoreapi.com/docs)
 Clone the repository
 git clone https://github.com/subrahmanyamborusu3/Product-Store.git
 
-cd product-store
+cd Product-store-main
 
 #Install dependencies
 
@@ -29,7 +29,7 @@ npm install
 
 #Start the development server
 
-npm start
+npm run dev
 
 #Open your browser
 
