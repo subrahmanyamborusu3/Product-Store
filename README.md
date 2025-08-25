@@ -14,7 +14,7 @@ FakeStore API - External API for product data  (https://fakestoreapi.com/docs)
 --- Steps ----
 
 Clone the repository
-git clone https://github.com/yourusername/product-store.git
+git clone https://github.com/subrahmanyamborusu3/Product-Store.git
 cd product-store
 
 #Install dependencies
